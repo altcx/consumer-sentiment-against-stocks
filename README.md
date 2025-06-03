@@ -39,6 +39,3 @@ If you do not provide API keys, the program will generate demo data for demonstr
 ## Example Output
 - A graph showing stock price (blue line) and daily sentiment (green/red bars) for the selected stock.
 - Correlation value between sentiment and stock price.
-
-## License
-MIT
